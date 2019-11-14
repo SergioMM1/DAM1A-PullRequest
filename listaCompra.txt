@@ -1,2 +1,6 @@
 Pan... 1,2,3 responda otra vez
 Manzanas
+Orégano
+Perejil
+Agua
+Leche
